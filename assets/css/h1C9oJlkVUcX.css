@@ -354,6 +354,10 @@ body.dark-skin {
 	color: rgba(255, 255, 255, 0.02);
 }
 
+.dark-skin .lui-bgheadertitle {
+	color: rgba(255, 255, 255, 0.02);
+}
+
 /**
 * Section Hero Started
 **/
